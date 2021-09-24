@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jian, a NYU MS CS Student with a Finance undergrad degree
+- 👋 Hi, I’m Jian, a NYU MS CS Student (Spring '2023) with a Finance undergrad degree
 - 👀 I’m interested in video games, hiking and badminton
 - 🌱 I’m currently learning Information Visualization, Operating System in the current semester
 - 💞️ I’m looking for a SDE internship for Summer 2022
